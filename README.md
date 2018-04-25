@@ -5,4 +5,4 @@ ES6,
 <a href="https://viperhtml.js.org/hyperhtml/documentation/#introduction" target="_blank">hyperHTML</a>,
 CSS**
 
-<a href="https://jsfiddle.net/hpvtej1f/6/">JSFiddle</a>
+<a href="https://jsfiddle.net/hpvtej1f/6/" target="_blank">JSFiddle</a>
